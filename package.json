@@ -1,0 +1,18 @@
+{
+  "name": "server-web",
+  "version": "1.0.0",
+  "description": "servidor 06/07/2022",
+  "main": "server.js",
+  "scripts": {
+    "dev": "npx nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
